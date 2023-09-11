@@ -51,7 +51,6 @@ namespace EasyCashIdentityProject.DataAccessLayer.Repositories
         {
             return await _context.ToListAsync();
         }
-
         public async Task<List<T>> GetByExpressionAsync(Expression<Func<T, bool>> expression)
         {
             return await _context.Where(expression).ToListAsync();
