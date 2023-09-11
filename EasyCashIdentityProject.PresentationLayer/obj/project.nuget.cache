@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bZkUXdp7//EeYQWXX3q8N4oBtUba9YAOX+ooSkotK+d3ejvq/177zg1G5eEvN3KFrjgKEq+EI7cSVvIVRUJLAw==",
+  "dgSpecHash": "XpFmUStIGuw99wFvkGixsZYY2RXasPNg506S7hLMxbtjse7Bbh5Y9rgdEtmpWbqh/eL2gf68yz5K2r0I1nEjlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\EasyCashIdentityProject.PresentationLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\resul\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "C:\\Users\\resul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\resul\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.21\\microsoft.aspnetcore.cryptography.internal.6.0.21.nupkg.sha512",
     "C:\\Users\\resul\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.21\\microsoft.aspnetcore.cryptography.keyderivation.6.0.21.nupkg.sha512",

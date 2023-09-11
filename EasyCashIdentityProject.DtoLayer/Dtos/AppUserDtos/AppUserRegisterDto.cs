@@ -15,6 +15,6 @@ namespace EasyCashIdentityProject.DtoLayer.Dtos.AppUserDtos
         public string Email { get; set; }
         public string Password { get; set; }
         [Required,Compare(nameof(Password))]
-        public string CofirmPassword { get; set; }
+        public string ConfirmPassword { get; set; }
     }
 }
