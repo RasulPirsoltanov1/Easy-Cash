@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\EasyCashIdentityProject.PresentationLayer.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\RegisterPage.whtt",
+      "PackagePath": "staticwebassets\\RegisterPage.whtt"
+    },
+    {
       "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -18979,6 +18983,90 @@
     {
       "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\css\\style.css",
+      "PackagePath": "staticwebassets\\regform\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\regform\\fonts\\material-icon\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\regform\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\regform\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.eot",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.svg",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.woff",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.woff2",
+      "PackagePath": "staticwebassets\\regform\\fonts\\montserrat\\montserrat-v12-latin-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\images\\signup-bg.jpg",
+      "PackagePath": "staticwebassets\\regform\\images\\signup-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\index.html",
+      "PackagePath": "staticwebassets\\regform\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\js\\main.js",
+      "PackagePath": "staticwebassets\\regform\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\regform\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\regform\\vendor\\jquery\\jquery.min.js"
     },
     {
       "Id": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\wwwroot\\web\\about.html",
